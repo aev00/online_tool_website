@@ -12,7 +12,7 @@ Requirements for the input data:
 * ...
 
 <div class="wrapper">
-    <iframe height="500px" width="100%" frameborder="no" src="https://q35vkf-anna-valyogos.shinyapps.io/complexity_online_tool/" > </iframe>
+    <iframe height="500px" width="100%" frameborder="no" src="https://q35vkf-anna-valyogos.shinyapps.io/online_tool_website/" > </iframe>
 </div>
 
 
