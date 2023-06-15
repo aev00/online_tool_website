@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.page-content {
+  padding: $spacing-unit 0;
+  width:1250px;
+  flex: 1 0 auto;
+}
 .wrapper {
   width:1250px;
   margin:0 auto;
