@@ -6,7 +6,7 @@ layout: base
 ---
 
 <div class="video-container">
-    <iframe height="100%" width="100%" frameborder="no" src="https://q35vkf-anna-valyogos.shinyapps.io/complexity_online_tool/" > </iframe>
+    <iframe height="500px" width="100%" frameborder="no" src="https://q35vkf-anna-valyogos.shinyapps.io/complexity_online_tool/" > </iframe>
 </div>
 
 
